@@ -36,5 +36,5 @@ Sou analista de qualidade com experiência em testes manuais, automatizados e co
 ---
 
 ## Contato
-LinkedIn: https://www.linkedin.com/in/lara-roque-sartori-b46352256/
-Email: lararoque2003@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/lara-roque-sartori-b46352256/
+- Email: lararoque2003@hotmail.com
