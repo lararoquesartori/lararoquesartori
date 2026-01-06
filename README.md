@@ -1,4 +1,4 @@
-# Lara Roques
+# Lara Roque
 
 Analista de Qualidade (QA) com foco em testes de software, validação de requisitos e garantia da qualidade em aplicações.
 
