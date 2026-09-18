@@ -1,40 +1,73 @@
 # Lara Roque
 
-Analista de Qualidade (QA) com foco em testes de software, validação de requisitos e garantia da qualidade em aplicações.
+### QA Analyst | Software Testing | Quality Assurance
+
+QA Analyst focused on software testing, requirements validation, and software quality.
 
 ---
 
-## Sobre mim
-Sou analista de qualidade com experiência em testes manuais, automatizados e conhecimento em testes de integração e testes de API. Atuo garantindo que as entregas atendam aos requisitos funcionais e não funcionais, colaborando com times de desenvolvimento em ambientes ágeis.
+## 👩‍💻 About Me
+
+I am a **QA Analyst** with experience in **manual testing, API testing, requirements validation, test documentation, and software quality assurance**.
+
+I work closely with development and product teams to understand **functional and non-functional requirements, business rules, user flows, and acceptance criteria**, helping ensure that software meets both technical and business expectations.
+
+I am also developing my skills in **test automation and regression testing**, with a focus on building reliable and maintainable testing practices.
+
+🎓 **B.Sc. in Computer Science** at the **Federal University of Ceará (UFC)**.
 
 ---
 
-## Principais competências
-- Testes funcionais e exploratórios  
-- Criação de casos de teste e planos de teste  
-- Testes de API  
-- Testes de integração  
-- Versionamento com Git  
-- Metodologias ágeis (Scrum e Kanban)
+## 🧪 QA & Testing Skills
+
+* Manual Testing
+* Functional Testing
+* Exploratory Testing
+* Regression Testing
+* API Testing
+* Integration Testing
+* Test Case Design
+* Test Documentation
+* Bug Reporting
+* Requirements Validation
+* Functional & Non-Functional Requirements
+* Business Rules Analysis
+* Software Quality Assurance
+* Agile Methodologies
 
 ---
 
-## Ferramentas e tecnologias
-- Postman  
-- Git e GitHub  
-- Java / Python (se aplicável)  
-- Selenium / Cypress (se aplicável)  
-- JUnit / PyTest (se aplicável)
+## 🛠️ Tools & Technologies
+
+* **Testing:** Postman, Selenium
+* **Programming:** Python, C#
+* **Databases:** SQL Server, MongoDB
+* **Version Control:** Git, GitHub
+* **DevOps:** Azure DevOps
+* **Operating System:** Linux
+* **Methodologies:** Agile, Scrum, Kanban
 
 ---
 
-## Projetos em destaque
+## 📚 Currently Learning
+
+* Test Automation
+* Selenium
+* Regression Testing
+* Software Testing Best Practices
+* Quality Engineering
+* Software Requirements
+* Test Strategy & Planning
+
+---
+
+## Projects
 - Cliente-servidor TCP – Comunicação cliente-servidor utilizando sockets  
 - Trabalho Redes Sockets – Projeto acadêmico focado em redes  
 - Projeto Pokédex – Aplicação com validação funcional
 
 ---
 
-## Contato
+## Contact
 - LinkedIn: https://www.linkedin.com/in/lara-roque-sartori-b46352256/
 - Email: lararoque2003@hotmail.com
