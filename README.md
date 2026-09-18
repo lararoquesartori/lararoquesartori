@@ -1,63 +1,58 @@
 # Lara Roque
 
-### QA Analyst | Software Testing | Quality Assurance
+### Analista de Qualidade (QA) | Testes de Software | Qualidade de Software
 
-QA Analyst focused on software testing, requirements validation, and software quality.
-
----
-
-## 👩‍💻 About Me
-
-I am a **QA Analyst** with experience in **manual testing, API testing, requirements validation, test documentation, and software quality assurance**.
-
-I work closely with development and product teams to understand **functional and non-functional requirements, business rules, user flows, and acceptance criteria**, helping ensure that software meets both technical and business expectations.
-
-I am also developing my skills in **test automation and regression testing**, with a focus on building reliable and maintainable testing practices.
-
-🎓 **B.Sc. in Computer Science** at the **Federal University of Ceará (UFC)**.
+Analista de Qualidade com foco em testes de software, validação de requisitos e garantia da qualidade de aplicações.
 
 ---
 
-## 🧪 QA & Testing Skills
+## Sobre mim
 
-* Manual Testing
-* Functional Testing
-* Exploratory Testing
-* Regression Testing
-* API Testing
-* Integration Testing
-* Test Case Design
-* Test Documentation
-* Bug Reporting
-* Requirements Validation
-* Functional & Non-Functional Requirements
-* Business Rules Analysis
-* Software Quality Assurance
-* Agile Methodologies
+Sou **Analista de Qualidade (QA)** com experiência em **testes manuais, testes de API, validação de requisitos e documentação de testes**.
+
+Atuo em conjunto com times de desenvolvimento e produto na compreensão e validação de **requisitos funcionais e não funcionais, regras de negócio, fluxos de usuário e critérios de aceitação**, contribuindo para garantir que as entregas atendam às necessidades técnicas e de negócio.
+
+Também venho desenvolvendo minha experiência em **automação de testes e testes de regressão**, buscando construir processos de testes mais confiáveis e eficientes.
+
+🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Ceará (UFC)**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧪 Competências em QA e Testes
 
-* **Testing:** Postman, Selenium
-* **Programming:** Python, C#
-* **Databases:** SQL Server, MongoDB
-* **Version Control:** Git, GitHub
+* Testes Manuais
+* Testes Funcionais
+* Testes Exploratórios
+* Testes de Regressão
+* Testes de API
+* Testes de Integração
+* Criação de Casos de Teste
+* Documentação de Testes
+* Relato e acompanhamento de Bugs
+* Validação de Requisitos
+* Requisitos Funcionais e Não Funcionais
+* Análise de Regras de Negócio
+* Garantia da Qualidade de Software
+* Metodologias Ágeis
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+* **Testes:** Postman, Selenium
+* **Programação:** Python, C#
+* **Bancos de Dados:** SQL Server, MongoDB
+* **Versionamento:** Git, GitHub
 * **DevOps:** Azure DevOps
-* **Operating System:** Linux
-* **Methodologies:** Agile, Scrum, Kanban
+* **Sistema Operacional:** Linux
+* **Metodologias:** Agile, Scrum, Kanban
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente estudando
 
-* Test Automation
-* Selenium
-* Regression Testing
-* Software Testing Best Practices
-* Quality Engineering
-* Software Requirements
-* Test Strategy & Planning
+* Automação de Testes
+
 
 ---
 
