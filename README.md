@@ -14,11 +14,11 @@ Atuo em conjunto com times de desenvolvimento e produto na compreensão e valida
 
 Também venho desenvolvendo minha experiência em **automação de testes e testes de regressão**, buscando construir processos de testes mais confiáveis e eficientes.
 
-🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Ceará (UFC)**.
+Graduanda em **Ciência da Computação pela Universidade Federal do Ceará (UFC)**.
 
 ---
 
-## 🧪 Competências em QA e Testes
+## Competências em QA e Testes
 
 * Testes Manuais
 * Testes Funcionais
@@ -37,7 +37,7 @@ Também venho desenvolvendo minha experiência em **automação de testes e test
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 * **Testes:** Postman, Selenium
 * **Programação:** Python, C#
@@ -49,7 +49,7 @@ Também venho desenvolvendo minha experiência em **automação de testes e test
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 * Automação de Testes
 
